@@ -1,2 +1,2 @@
 # botv12
-discordv12
+dowload file bot.zip 
